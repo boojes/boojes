@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boojes
-- 👀 I’m interested in vb
+- 👀 I’m interested in Java & JS
 - 🌱 I’m currently learning vb
 - 💞️ I’m looking to collaborate on vb
 - 📫 How to reach me aa.poenya@gmail.com
