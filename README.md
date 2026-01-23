@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boojes
-- 👀 I’m interested in Java & JS
-- 🌱 I’m currently learning Java & JS
-- 💞️ I’m looking to collaborate on Java & JS
+- 👀 I’m interested in JS
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on JS
 - 📫 How to reach me aa.poenya@gmail.com
 
 <!---
